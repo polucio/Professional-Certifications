@@ -58,5 +58,3 @@ This folder contains my industry-recognized certifications in IT and cybersecuri
   - Network Fundamentals
 
 ---
-
-This document ensures all relevant certification details are clearly presented. Let me know if you need help creating or linking any specific files!
