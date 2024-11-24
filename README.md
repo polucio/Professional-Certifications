@@ -27,7 +27,7 @@
 5. **Agile Project Management**  
 6. **Capstone: Applying Project Management in the Real World**
 
-**Certification Link:** [View Certificate](https://coursera.org/share/your_certificate_link_here)
+**Certification Link:** [View Certificate](https://coursera.org/share/2dbc87e6e93074d7a1f20fcf80c1982a)
 
 ---
 
@@ -48,7 +48,7 @@
 7. **Data Analysis with R Programming**  
 8. **Google Data Analytics Capstone: Complete a Case Study**
 
-**Certification Link:** [View Certificate](https://coursera.org/share/your_certificate_link_here)
+**Certification Link:** [View Certificate](https://coursera.org/share/28e08810c85ba714fefde2b4a48fa664)
 
 ---
 
