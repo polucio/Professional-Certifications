@@ -67,11 +67,4 @@ This folder contains certifications earned through Coursera, showcasing my skill
 
 ---
 
-## Repository Structure
-
-This folder contains:
-- PDF files of each certification for verification.
-- Detailed descriptions and credential links to provide proof of completion and expertise.
-
-
 These certifications demonstrate my proficiency in project management, data analysis, Python automation, and network traffic analysis.
