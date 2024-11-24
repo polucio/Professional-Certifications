@@ -1,40 +1,55 @@
-# Professional Certifications
+# Coursera Certifications
 
-This repository highlights my professional certifications, categorized into **Coursera certifications** and **Industry certifications**. These credentials demonstrate my commitment to continuous learning and professional development.
-
-## Certifications
-
-### Coursera Certifications
-- [Google Project Management](Coursera/Google-Project-Management.pdf)  
-- [Google Data Analytics](Coursera/Google-Data-Analytics.pdf)  
-- [Google IT Automation with Python](Coursera/Google-IT-Automation-with-Python.pdf)  
-
-### Industry Certifications
-- [(ISC)² Certified in Cybersecurity (CC)](Industry/ISC2-Certified-in-Cybersecurity.pdf)  
-- [GIAC Foundational Cybersecurity Technologies (GFACT)](Industry/GIAC-GFACT.pdf)  
-- [CompTIA Security+ (SY0-601)](Industry/CompTIA-Security+.pdf)  
-- [CompTIA Network+ (N10-009)](Industry/CompTIA-Network+.pdf)  
+This folder contains certifications earned through Coursera, showcasing my diverse skills and achievements in IT, cybersecurity, and project management.
 
 ---
 
-### Folder-Specific `README.md` Files
+## Certifications
 
-#### **Coursera/README.md**
+### 1. Google Project Management Certificate
+- **Issuing Organization**: Coursera
+- **Issued**: November 2023
+- **Credential Details**: [View Credential](Google-Project-Management.pdf)
+- **Skills**:
+  - Agile Project Management
+  - Project Planning and Execution
+  - Communication and Stakeholder Management
 
-```markdown
-# Coursera Certifications
+---
 
-This folder contains certificates from Coursera specializations I've completed. These certifications reflect my commitment to developing skills in project management, data analytics, and IT automation.
+### 2. Wireshark for Beginners: Capture Packets
+- **Issuing Organization**: Coursera
+- **Issued**: September 2023
+- **Credential ID**: BF6PT8N2KC77
+- **Credential Details**: [View Credential](Wireshark-Beginners-Capture-Packets.pdf)
+- **Skills**:
+  - Packet Capturing
+  - Network Traffic Analysis
+  - Basic Wireshark Techniques
 
-## Certificates
-1. **Google Project Management**  
-   - Completion Date: November 16, 2023  
-   - Topics: Agile, Project Initiation, Execution, and Capstone Projects.
+---
 
-2. **Google Data Analytics**  
-   - Completion Date: January 3, 2024  
-   - Topics: Data Preparation, Analysis, Visualization, R Programming.
+### 3. Analyze Network Traffic with TCPDump
+- **Issuing Organization**: Coursera
+- **Issued**: September 2023
+- **Credential ID**: 311cc17ff9773fe31531f8acae3ac83d
+- **Credential Details**: [View Credential](Analyze-Network-Traffic-TCPDump.pdf)
+- **Skills**:
+  - Network Security
+  - Traffic Monitoring and Troubleshooting
+  - Advanced TCPDump Techniques
 
-3. **Google IT Automation with Python**  
-   - Completion Date: December 7, 2022  
-   - Topics: Python, Git, Automation, Debugging, and Cloud Management.
+---
+
+## Repository Structure
+
+- Each certification is stored as a PDF file in this folder.
+- Links to download or view the certificates are provided for easy access:
+
+  - **[Google Project Management Certificate](Google-Project-Management.pdf)**
+  - **[Wireshark for Beginners: Capture Packets](Wireshark-Beginners-Capture-Packets.pdf)**
+  - **[Analyze Network Traffic with TCPDump](Analyze-Network-Traffic-TCPDump.pdf)**
+
+---
+
+These certifications demonstrate my ability to analyze network traffic, manage projects, and utilize key IT tools effectively.
