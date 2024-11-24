@@ -1,6 +1,6 @@
 # Coursera Certifications
 
-This folder contains certifications earned through Coursera, showcasing my diverse skills and achievements in IT, cybersecurity, and project management.
+This folder contains certifications earned through Coursera, showcasing my skills and achievements in IT, cybersecurity, data analytics, and project management.
 
 ---
 
@@ -9,15 +9,43 @@ This folder contains certifications earned through Coursera, showcasing my diver
 ### 1. Google Project Management Certificate
 - **Issuing Organization**: Coursera
 - **Issued**: November 2023
-- **Credential Details**: [View Credential](Google-Project-Management.pdf)
+- **Credential URL**: [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/THEWZH8M83Y6)
 - **Skills**:
   - Agile Project Management
   - Project Planning and Execution
-  - Communication and Stakeholder Management
+  - Stakeholder Management
+  - Problem Solving
+  - Communication Strategies
 
 ---
 
-### 2. Wireshark for Beginners: Capture Packets
+### 2. Google Data Analytics Certificate
+- **Issuing Organization**: Coursera
+- **Issued**: January 2024
+- **Credential URL**: [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/C6C7B7J2XNDJ)
+- **Skills**:
+  - Data Analysis with R Programming
+  - Data Cleaning and Preparation
+  - Data Visualization Techniques
+  - SQL for Data Analytics
+  - Case Study Development
+
+---
+
+### 3. Google IT Automation with Python Certificate
+- **Issuing Organization**: Coursera
+- **Issued**: December 2022
+- **Credential URL**: [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/T6ZU43MH2ZWM)
+- **Skills**:
+  - Python Programming
+  - Automation of IT Tasks
+  - Debugging and Troubleshooting
+  - Git and GitHub Usage
+  - Configuration Management and the Cloud
+
+---
+
+### 4. Wireshark for Beginners: Capture Packets
 - **Issuing Organization**: Coursera
 - **Issued**: September 2023
 - **Credential ID**: BF6PT8N2KC77
@@ -29,7 +57,7 @@ This folder contains certifications earned through Coursera, showcasing my diver
 
 ---
 
-### 3. Analyze Network Traffic with TCPDump
+### 5. Analyze Network Traffic with TCPDump
 - **Issuing Organization**: Coursera
 - **Issued**: September 2023
 - **Credential ID**: 311cc17ff9773fe31531f8acae3ac83d
@@ -43,13 +71,17 @@ This folder contains certifications earned through Coursera, showcasing my diver
 
 ## Repository Structure
 
-- Each certification is stored as a PDF file in this folder.
-- Links to download or view the certificates are provided for easy access:
+This folder contains:
+- PDF files of each certification for verification.
+- Detailed descriptions and credential links to provide proof of completion and expertise.
 
-  - **[Google Project Management Certificate](Google-Project-Management.pdf)**
-  - **[Wireshark for Beginners: Capture Packets](Wireshark-Beginners-Capture-Packets.pdf)**
-  - **[Analyze Network Traffic with TCPDump](Analyze-Network-Traffic-TCPDump.pdf)**
+### Certifications List
+- [Google Project Management Certificate](https://www.coursera.org/account/accomplishments/professional-cert/THEWZH8M83Y6)
+- [Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/C6C7B7J2XNDJ)
+- [Google IT Automation with Python Certificate](https://www.coursera.org/account/accomplishments/professional-cert/T6ZU43MH2ZWM)
+- [Wireshark for Beginners: Capture Packets](Wireshark-Beginners-Capture-Packets.pdf)
+- [Analyze Network Traffic with TCPDump](Analyze-Network-Traffic-TCPDump.pdf)
 
 ---
 
-These certifications demonstrate my ability to analyze network traffic, manage projects, and utilize key IT tools effectively.
+These certifications demonstrate my proficiency in project management, data analysis, Python automation, and network traffic analysis.
