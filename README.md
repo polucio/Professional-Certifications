@@ -49,7 +49,6 @@ This folder contains certifications earned through Coursera, showcasing my skill
 - **Issuing Organization**: Coursera
 - **Issued**: September 2023
 - **Credential ID**: BF6PT8N2KC77
-- **Credential Details**: [View Credential](Wireshark-Beginners-Capture-Packets.pdf)
 - **Skills**:
   - Packet Capturing
   - Network Traffic Analysis
@@ -61,7 +60,6 @@ This folder contains certifications earned through Coursera, showcasing my skill
 - **Issuing Organization**: Coursera
 - **Issued**: September 2023
 - **Credential ID**: 311cc17ff9773fe31531f8acae3ac83d
-- **Credential Details**: [View Credential](Analyze-Network-Traffic-TCPDump.pdf)
 - **Skills**:
   - Network Security
   - Traffic Monitoring and Troubleshooting
