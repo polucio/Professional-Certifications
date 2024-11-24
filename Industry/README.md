@@ -59,17 +59,4 @@ This folder contains my industry-recognized certifications in IT and cybersecuri
 
 ---
 
-## Repository Structure
-
-- Each certification is stored as a PDF in this folder.
-- Links to view or download the certification documents are available below:
-
-  - **[(ISC)² Certified in Cybersecurity (CC)](ISC2-Certified-in-Cybersecurity.pdf)**
-  - **[GIAC Foundational Cybersecurity Technologies (GFACT)](GIAC-GFACT.pdf)**
-  - **[CompTIA Security+ (SY0-601)](CompTIA-Security+.pdf)**
-  - **[CompTIA IT Fundamentals+ (ITF+)](CompTIA-ITF+.pdf)**
-  - **[CompTIA A+ ce Certification](CompTIA-A+.pdf)**
-
----
-
 This document ensures all relevant certification details are clearly presented. Let me know if you need help creating or linking any specific files!
