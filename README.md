@@ -73,13 +73,5 @@ This folder contains:
 - PDF files of each certification for verification.
 - Detailed descriptions and credential links to provide proof of completion and expertise.
 
-### Certifications List
-- [Google Project Management Certificate](https://www.coursera.org/account/accomplishments/professional-cert/THEWZH8M83Y6)
-- [Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/C6C7B7J2XNDJ)
-- [Google IT Automation with Python Certificate](https://www.coursera.org/account/accomplishments/professional-cert/T6ZU43MH2ZWM)
-- [Wireshark for Beginners: Capture Packets](Wireshark-Beginners-Capture-Packets.pdf)
-- [Analyze Network Traffic with TCPDump](Analyze-Network-Traffic-TCPDump.pdf)
-
----
 
 These certifications demonstrate my proficiency in project management, data analysis, Python automation, and network traffic analysis.
