@@ -11,7 +11,7 @@ It includes detailed documentation, skills breakdowns, and verification links fo
 | Folder | Content Focus | Key Achievements |
 | :--- | :--- | :--- |
 | **[Coursera](Coursera/README.md)** | **Google Professional Specializations** | Project Management, Data Analytics, IT Automation with Python, Wireshark, TCPDump. |
-| **[Industry](Industry/README.md)** | **Vendor & Industry Certifications** | CompTIA, ISC2, GIAC, | Udemy Windows 11 Desktop Administration with Server and Cloud |
+| **[Industry](Industry/README.md)** | **Vendor & Industry Certifications** | CompTIA, ISC2, GIAC, Udemy Windows 11 Desktop Administration|
 | **README.md** | **Overview & Index** | (This file) |
 
 ---
@@ -44,11 +44,7 @@ The certifications documented here demonstrate proficiency across critical profe
 * Cybersecurity foundations
 
 ### 🖥️ IT Administration
-* Windows 11 Desktop Administration
-* Windows Server Administration
-* Cloud administration workflows
-* System configuration & maintenance
-* User, policy, and resource management
+* Windows 11 Desktop Administration with Server and Cloud
 
 ---
 
