@@ -1,100 +1,62 @@
-# 🏆 Google and IT Professional Certifications on Coursera
+# 🎓 Professional Certifications Portfolio
 
-![Coursera](https://img.shields.io/badge/Platform-Coursera-blue)
-![Google](https://img.shields.io/badge/Organization-Google-orange)
-![Certifications](https://img.shields.io/badge/Certifications-Completed-brightgreen)
+This repository serves as a centralized portfolio documenting my commitment to continuous professional development and the acquisition of core technical and business skills.
 
-**Certifications Completed By:** Porscha Lucio  
+It includes detailed documentation, skills breakdowns, and verification links for all completed certifications and specializations.
 
 ---
 
-## 🚀 Google Professional Specializations
+## 📁 Repository Structure
 
-| Specialization | Issued | Time Commitment | Key Skills |
-| :--- | :--- | :--- | :--- |
-| **Project Management** | Nov 2023 | ~6 months | Agile, Planning, Stakeholder Management |
-| **Data Analytics** | Jan 2024 | ~6 months | R, SQL, Visualization, Case Studies |
-| **IT Automation with Python** | Dec 2022 | ~6 months | Python, Automation, Git/GitHub, Cloud Config |
-
----
-
-## 1. Google Project Management Specialization
-
-![Google Project Management](https://img.shields.io/badge/Specialization-Project%20Management-purple)
-
-**Completion Date:** November 16, 2023  
-**Status:** Verified on Coursera  
-**Skills Covered:** Agile PM, Execution, Risk & Stakeholder Management, Communication, Problem Solving  
-
-### Courses Completed:
-1. Foundations of Project Management  
-2. Project Initiation: Starting a Successful Project  
-3. Project Planning: Putting It All Together  
-4. Project Execution: Running the Project  
-5. Agile Project Management  
-6. Capstone: Applying Project Management in the Real World  
-
-**Certification Link:** https://coursera.org/share/2dbc87e6e93074d7a1f20fcf80c1982a
+| Folder | Content Focus | Key Achievements |
+|--------|----------------|------------------|
+| **[Coursera](./Coursera/)** | Google Professional Specializations | Project Management, Data Analytics, IT Automation with Python, Wireshark, TCPDump |
+| **[Industry](./Industry/)** | Other Industry Certifications | CompTIA, ISC2, GIAC, Microsoft (coming soon) |
+| **README.md** | Overview & Index | (This file) |
 
 ---
 
-## 2. Google Data Analytics Specialization
+## ✨ Overview of Skills
 
-![Google Data Analytics](https://img.shields.io/badge/Specialization-Data%20Analytics-green)
+The certifications documented here demonstrate proficiency in several core domains:
 
-**Completion Date:** January 3, 2024  
-**Status:** Verified on Coursera  
-**Skills Covered:** R Programming, SQL, Data Cleaning, Visualization, Data Analysis, Case Study Development  
+### **📌 Project Management**
+- Agile methodologies  
+- Stakeholder Management  
+- Project Planning & Execution  
 
-### Courses Completed:
-1. Foundations: Data, Data, Everywhere  
-2. Ask Questions to Make Data-Driven Decisions  
-3. Prepare Data for Exploration  
-4. Process Data from Dirty to Clean  
-5. Analyze Data to Answer Questions  
-6. Share Data Through Visualization  
-7. Data Analysis with R Programming  
-8. Google Data Analytics Capstone  
+### **⚙️ Data & Automation**
+- Python scripting  
+- R programming  
+- SQL  
+- Data visualization  
+- Automation of IT tasks  
 
-**Certification Link:** https://coursera.org/share/28e08810c85ba714fefde2b4a48fa664  
-
----
-
-## 3. Google IT Automation with Python Specialization
-
-![Google IT Automation with Python](https://img.shields.io/badge/Specialization-Automation%20with%20Python-blue)
-
-**Completion Date:** December 7, 2022  
-**Status:** Verified on Coursera  
-**Skills Covered:** Python, OS Automation, Debugging, Git/GitHub, Cloud Configuration  
-
-### Courses Completed:
-1. Crash Course on Python  
-2. Using Python with the OS  
-3. Debugging Techniques  
-4. Intro to Git and GitHub  
-5. Configuration Management and Cloud  
-6. Automating Real-World Tasks  
-
-**Certification Link:** https://coursera.org/share/f2fcc3306431228d0fc10ed8c5441521  
+### **🔐 Networking & Security**
+- Wireshark (packet analysis)  
+- TCPDump  
+- Troubleshooting  
+- Network security fundamentals  
 
 ---
 
-## 💡 Individual Cybersecurity Courses
+## 🔍 Verification
 
-### Wireshark for Beginners: Capture Packets
-- **Issued:** September 2023  
-- **Credential ID:** BF6PT8N2KC77  
-- **Skills:** Packet Capture, Traffic Analysis, Wireshark Basics  
+All documents within the respective folders contain:
 
-### Analyze Network Traffic with TCPDump
-- **Issued:** September 2023  
-- **Credential ID:** 311cc17ff9773fe31531f8acae3ac83d  
-- **Skills:** Network Security, Troubleshooting, TCPDump Techniques  
+- Direct verification links  
+- Official credential IDs  
+- Completion dates  
+- Full course/specialization breakdowns  
+
+These ensure the authenticity and successful completion of each certification.
 
 ---
 
-## 📁 Repository Purpose & Verification
+## 📬 Contact
 
-This repository documents my verified Google professional certifications and additional specialized cybersecurity coursework on Coursera.  
-All certifications listed above include publicly verifiable certificate links or credential IDs.
+If you'd like to connect professionally:
+
+**LinkedIn:** https://linkedin.com/in/porscha-lucio  
+**GitHub:** https://github.com/polucio  
+
