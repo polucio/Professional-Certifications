@@ -11,8 +11,8 @@ It includes detailed documentation, skills breakdowns, and verification links fo
 | Folder | Content Focus | Key Achievements |
 |--------|----------------|------------------|
 | **[Coursera](./Coursera/)** | Google Professional Specializations | Project Management, Data Analytics, IT Automation with Python, Wireshark, TCPDump |
-| **[Industry](./Industry/)** | Other Industry Certifications | CompTIA, ISC2, GIAC, Microsoft (coming soon) |
-| **README.md** | Overview & Index | (This file) |
+| **[Industry](./Industry/)** | CompTIA, ISC2, GIAC|
+| **README.md** | Overview & Index |
 
 ---
 
