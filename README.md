@@ -11,7 +11,7 @@ It includes detailed documentation, skills breakdowns, and verification links fo
 | Folder | Content Focus | Key Achievements |
 | :--- | :--- | :--- |
 | **[Coursera](Coursera/README.md)** | **Google Professional Specializations** | Project Management, Data Analytics, IT Automation with Python, Wireshark, TCPDump. |
-| **[Industry](Industry/README.md)** | **Vendor & Industry Certifications** | CompTIA, ISC2, GIAC, Udemy Windows 11 Desktop + Server + Cloud Administration. |
+| **[Industry](Industry/README.md)** | **Vendor & Industry Certifications** | CompTIA, ISC2, GIAC, **Udemy Windows 11 Desktop + Server + Cloud Administration**. |
 | **README.md** | **Overview & Index** | (This file) |
 
 ---
