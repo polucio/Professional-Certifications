@@ -1,23 +1,72 @@
-# 🎓 Professional Certifications Portfolio
+🎓 Professional Certifications Portfolio
 
-... (Previous introductory text) ...
+This repository serves as a centralized portfolio documenting my commitment to continuous professional development and the acquisition of core technical and business skills.
 
-## 📂 Repository Structure
+It includes detailed documentation, skills breakdowns, and verification links for all completed certifications and specializations.
 
-| Folder | Content Focus | Key Achievements |
-| :--- | :--- | :--- |
-| **[Coursera](Coursera/README.md)** | **Google Professional Specializations** | Project Management, Data Analytics, IT Automation with Python, Wireshark, TCPDump. |
-| **[Industry](Industry/README.md)** | **Industry-Specific Certifications** | CompTIA, ISC2, GIAC, **Udemy**. |
-| **README.md** | **Overview & Index** | (This file) |
+📂 Repository Structure
+Folder	Content Focus	Key Achievements
+Coursera
+	Google Professional Specializations	Project Management, Data Analytics, IT Automation with Python, Wireshark, TCPDump
+Industry
+	Vendor & Industry Certifications	CompTIA, ISC2, GIAC, Udemy Windows 11 Desktop + Server + Cloud Administration
+README.md	Overview & Index	(This file)
+✨ Overview of Skills (Updated)
 
----
+The certifications documented here demonstrate proficiency across critical professional domains:
 
-## ✨ Overview of Skills (Updated)
+🧩 Project Management
 
-The certifications documented here demonstrate proficiency in critical professional domains:
+Agile methodologies
 
-* **Project Management:** Agile methodologies, Stakeholder Management, Project Planning.
-* **Data & Automation:** Python Scripting, Automation of IT Tasks, SQL, Data Visualization, R Programming.
-* **Networking & Security:** Network Traffic Analysis (Wireshark/TCPDump), Troubleshooting, Network Security.
-* **New! IT Administration:** **Windows Desktop, Server, and Cloud Administration.**
+Stakeholder management
 
+Project initiation, planning & execution
+
+Communication strategies
+
+Real-world capstone project delivery
+
+⚙️ Data & Automation
+
+Python scripting
+
+Automation of IT tasks
+
+SQL
+
+Data visualization
+
+R programming
+
+Debugging & troubleshooting
+
+Git + GitHub workflows
+
+🔐 Networking & Security
+
+Network traffic analysis (Wireshark / TCPDump)
+
+Network defense fundamentals
+
+Troubleshooting
+
+Packet inspection
+
+Cybersecurity foundations
+
+🖥️ NEW: IT Administration
+
+Windows 11 Desktop Administration
+
+Windows Server Administration
+
+Cloud administration workflows
+
+System configuration & maintenance
+
+User, policy, and resource management
+
+✔️ Verification
+
+All documents within their respective folders include credential IDs or direct links to verify successful completion.
