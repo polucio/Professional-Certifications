@@ -32,7 +32,6 @@ The certifications documented here demonstrate proficiency across critical profe
 * Automation of IT tasks
 * SQL
 * Data visualization
-* R programming
 * Debugging & troubleshooting
 * Git + GitHub workflows
 
